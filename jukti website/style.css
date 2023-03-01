@@ -1,0 +1,29 @@
+.bg{
+    background-color: white;
+}
+/* .img{
+    
+} */
+.card{
+    background-color: black;
+
+}
+.cardi{
+    background-color: #4d3ab5;
+
+}
+.my-custom-title {
+    color: white;
+  }
+.card :hover{
+    background-color: white;
+}
+.cal{
+    width:40px;
+}
+.people{
+    width:40px;
+}
+.button :hover{
+    color: black;
+}
