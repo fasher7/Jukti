@@ -7,6 +7,5 @@ int main()
     cout << "What is your branch number? ";
     cin >> branch;
     cout << "Testing new branch number " << branch << endl;
-
     return 0;
 }
